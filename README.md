@@ -1,2 +1,2 @@
 # testbot
-test cla-bot
+Test cla-bot.
